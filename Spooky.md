@@ -1,8 +1,8 @@
-🎮 Roblox Script Dev
-⚡ FPS Boost • Otimização • Performance
-🥔 Criador do modo “Batata Extreme”
-💻 Scripts focados em desempenho real
-🚀 Sempre evoluindo
+-- ===== 🎮 Roblox Script Dev =====
+-- ===== ⚡ FPS Boost • Otimização • Performance =====
+-- ===== 🥔 Criador do modo “Batata Extreme” =====
+-- ===== 💻 Scripts focados em desempenho real =====
+-- ===== 🚀 Sempre evoluindo =====
 
 -- FPS BOOST + MODO BATATA EXTREMO 🥔
 pcall(function()
